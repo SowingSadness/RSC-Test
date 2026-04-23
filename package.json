@@ -1,1 +1,14 @@
-{\n  "name": "rsc-test",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "typescript": "^4.0.0",\n    "react": "^17.0.0",\n    "@lazarv/rsc": "^2.0.0",\n    "express": "^4.17.1"\n  }\n}
+{
+  "name": "rsc-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0",
+    "react": "^17.0.0",
+    "@lazarv/rsc": "^2.0.0",
+    "express": "^4.17.1"
+  }
+}
